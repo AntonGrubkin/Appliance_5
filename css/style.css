@@ -112,7 +112,7 @@ html {scroll-behavior: smooth;}
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 0;
+    padding: 7px 0;
 
 }
 
@@ -489,9 +489,9 @@ p{
 
 .list-warranty ol li{
     list-style: none;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
-    line-height: 35px;
+    line-height: 33px;
     color: #353535;
     letter-spacing: 0,8px;
     align-items: center;
